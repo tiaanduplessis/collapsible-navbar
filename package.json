@@ -10,7 +10,7 @@
     "eslint-config-anf": "^0.4.4",
     "exponent": "^14.0.0",
     "react": "~15.4.0",
-    "react-native": "https://github.com/exponent/react-native/archive/sdk-14.0.0.tar.gz"
+    "react-native": "0.63.0"
   },
   "devDependencies": {
     "babel-eslint": "^7.1.1",
